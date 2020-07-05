@@ -1,0 +1,46 @@
+margin ani padding ne format tharavta yeto
+"font-family:" ne font thevta yeto
+
+"background:" ne background cha color badalta yeto
+"background: linear-gradient(135deg,rgb(74,13,143)0%,rgba(250,42,143)100%)" hyani background cha gradient badalta yeto.
+"height:" ne height tharavta yete page chi ani vh mhanje vertical height
+"float:" ne pagevar to element kuthe thevaaycha te tharavta yeta
+"list-style-type:" ne list style tharavta yeta, none kelyavar kahich style nahi raaahat
+"margin-top:" ne varun margin thevta yete
+"display : inline-block" ne ubha aslela menu aadva karta yeto
+"ul li a" hyane te menu t aslele link select hotaat
+"text-decoration: none" hyane text la underline kahipan asel decoration te jaata
+"color: rgba(255,255,255,0.5)" hyane color aala tya varchya menu tlya elements la
+"padding: 5px 0.2px" hyane padding deta yeta mhanje distance pahila vaala top px ani dusra vaala bottom
+"transition" ne transition effect deta yeto mhanje time interval...ease - specifies a transition effect
+ul li a:hover{
+  color: rgba(255,255,255,0.75);
+} hyane mouse tyavar hover kelyavar color change hoto
+
+ul li a.active{
+  border-bottom: 1px solid #cd99d4;
+  color: #fff;
+} hyane tya elements khaali border yete
+
+ul li a.download{
+  border: 1px solid #fff;
+  padding: 2px 20px;
+  border-radius: 3px;
+  color: #fff;
+} hyane download button bhovti box yeto
+
+ul li a.download:hover{
+  background-color: #fff;
+  color: purple;
+} hyane download button var nelyavar background paandhra hota ani text cha color purple hoto
+
+
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgadgetpilipinas.net%2F2018%2F05%2Foneplus-6-now-official-snapdragon-845-ai-assisted-portrait-mode-and-4k-video-recording-at-60fps%2F&psig=AOvVaw3G7waM2kWThXMhxyFp6x_N&ust=1593930433144000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCJDnguL7suoCFQAAAAAdAAAAABAE
+
+
+
+
+
+

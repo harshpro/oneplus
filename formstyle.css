@@ -1,0 +1,141 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
+body{
+  padding: 0 10px;
+  background: linear-gradient(135deg,rgb(74,13,143)0%,rgba(250,42,143)100%);
+  height: 100vh;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  color: #DC143C;
+  font-style: 50px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  margin-left: auto;
+}
+
+form{
+  margin: 20px auto;
+  width: 320px;
+  color: #fff;
+}
+
+input{
+  text-align: center;
+  background: #fff;
+  color: ##DC143C;
+  padding: 10px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0,0,0,0.5)
+}
+
+input[type="text"]{
+  display:block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px;
+  color: #B22222;
+}
+
+input[type="email"]{
+  display:block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px;
+  color: #B22222;
+}
+
+input[type="number"]{
+  display:block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px;
+  color: #B22222;
+}
+
+.box{
+  position: absolute;
+
+}
+
+select{
+  background: #fff;
+  color: #DC143C;
+  padding: 10px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0,0,0,0.5);
+
+}
+
+input[type="radio"]{
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-6px 10px 0 0;
+    vertical-align: middle;
+
+}
+
+input[type="submit"]{
+color: #fff;
+text-transform: uppercase;
+text-decoration: none;
+background: #DC143C;
+padding: 20px;
+border-radius: 3px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+
+}
+
+ul{
+  float: right;
+  list-style-type: none;
+  margin-top: 25px;
+}
+
+ul li{
+  display : inline-block;
+  margin-right: 40px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: rgba(255,255,255,0.5);
+  padding: 5px 0.2px;
+  transition: 0.5s ease;
+}
+
+ul li a:hover{
+  color: rgba(255,255,255,0.75);
+}
+
+ul li a.active{
+  border-bottom: 1px solid #cd99d4;
+  color: #fff;
+}
+
+ul li a.download{
+  border: 1px solid #fff;
+  padding: 2px 20px;
+  border-radius: 3px;
+  color: #fff;
+}
+
+ul li a.download:hover{
+  background-color: #fff;
+  color: purple;
+}
